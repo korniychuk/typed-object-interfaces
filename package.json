@@ -1,0 +1,19 @@
+{
+  "name": "typed-object-interfaces",
+  "version": "1.0.0",
+  "description": "Typed object interfaces. Types for plain objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ancor-dev/typed-object-interfaces.git"
+  },
+  "author": "Anton Korniychuk <dev@korniychuk.pro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ancor-dev/typed-object-interfaces/issues"
+  },
+  "homepage": "https://github.com/ancor-dev/typed-object-interfaces#readme"
+}
