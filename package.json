@@ -1,6 +1,6 @@
 {
   "name": "typed-object-interfaces",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Typed object interfaces. Types for plain objects.",
   "main": "index.js",
   "scripts": {

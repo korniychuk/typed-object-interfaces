@@ -21,3 +21,7 @@ export interface StdObject {
 export interface AnyObject {
   [name: string]: any;
 }
+
+export interface ArrayObject<A> {
+  [name: string]: Array<A>;
+}
