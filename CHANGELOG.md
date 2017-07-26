@@ -1,3 +1,9 @@
+# [1.3.0](https://github.com/ancor-dev/typed-object-interfaces/compare/1.2.0...1.3.0) (2017-07-26)
+  
+### Enhancements
+
+* IObject interface added
+
 # [1.2.0](https://github.com/ancor-dev/typed-object-interfaces/compare/1.1.0...1.2.0) (2017-07-22)
   
 ### Enhancements

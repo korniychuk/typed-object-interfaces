@@ -55,4 +55,6 @@ export interface ArrayObject<T> {
   [name: string]: T[];
   [name: number]: T[];
 }
+
+export type IObject<T> = {[key in keyof T]?: T[key]};
 ```
